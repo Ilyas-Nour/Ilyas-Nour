@@ -1,10 +1,10 @@
 ![MasterHead](https://i.pinimg.com/1200x/e1/e0/ab/e1e0ab6d490e41096e86e5e9e5abff16.jpg)
-<h1 align="center">Hi 👋, I'm Ilyas</h1>
+<h1 align="center">Hi, I'm Ilyas</h1>
 <h3 align="center">A passionate Web Full-Stack developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hYmp2NWRlazd5ZG94YnY2djF0bjFyaTI1cXprdXplNmZ5bjdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif">
 
 <h3 align="left">About me:</h3>
-<p align="left">👋 Hi! I'm Ilyas, a Web Full-Stack developer passionate about creating modern, responsive, and user-friendly websites.<br>💡 I love solving problems, learning new technologies, and building projects that make a real impact.<br> Always learning, always coding!</p>
+<p align="left">Hi! I'm Ilyas, a Web Full-Stack developer passionate about creating modern, responsive, and user-friendly websites.<br>I love solving problems, learning new technologies, and building projects that make a real impact.<br> Always learning, always coding!</p>
 
 -  I’m currently learning **React, Redux, Redux Toolkit, UML.**
 
