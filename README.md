@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb,laravel,react,redux,vue,angular,tailwind,bootstrap,nodejs,express,nestjs,nextjs,nuxtjs,svelte,jquery,sass,materialui,styledcomponents,npm,yarn,pnpm,vite,webpack,babel,docker,nginx,vercel,netlify,aws,redis,postgres,sqlite,supabase,firebase,prisma,graphql,bash,markdown,jest,cypress,git,github,vscode,figma,linux,ubuntu,debian,windows,apple,android,discord,postman&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,mysql,postgres,mongodb,supabase,react,jquery,laravel,bootstrap,tailwind,nodejs,nextjs,nestjs,vercel,docker,figma,vscode,notion,framer,threejs,prisma,ubuntu,discord&perline=9&theme=dark" />
   </a>
 </p>
 
