@@ -1,56 +1,45 @@
-<h1 align="center">Hi, I'm Ilyas 👋</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<p align="center">
+  <a href="https://github.com/ilyas-nour">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ilyas+%F0%9F%91%8B;Full-Stack+Web+Developer;I+build+clean,+simple+websites" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  I build websites that are clean, fast, and easy for everyone to use. <br>
-  I am based in Morocco and I focus on turning ideas into simple, working web applications.
+  I am a web developer from Morocco. My goal is to create websites that are incredibly easy for anyone to use. I love keeping things simple, fast, and straight to the point.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ilyasnour" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/xPEHhcRyjH" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ilyasneimfm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <br>
 
-### ⚡ What I'm Up To
-
-- 🌍 **Building:** **PrivaFlow** (a privacy web app) and other full-stack websites.
-- 🧠 **Learning:** React, Redux, and modern web development tools.
-- 🎯 **Focus:** Writing clean code and creating interfaces that are simple to understand.
+<h3 align="center">🚀 What I Do</h3>
+<p align="center">
+  Right now, I am building <b>PrivaFlow</b>, a privacy-focused web app.<br>
+  I focus on writing clean code and designing interfaces that just work, without any confusing terms or complex menus.
+</p>
 
 <br>
 
-### 🛠️ My Tools
-
-<p align="left">
+<h3 align="center">🛠️ My Tech Stack</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,tailwind,bootstrap" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,mongodb" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb,laravel,react,redux,vue,angular,tailwind,bootstrap,git,github,vscode,figma,linux,windows,ubuntu,discord,postman&perline=8" />
   </a>
 </p>
 
 <br>
 
-### 📊 My GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyas-nour&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas-nour&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyas-nour&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas-nour&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
