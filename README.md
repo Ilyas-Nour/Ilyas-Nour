@@ -10,29 +10,37 @@
   <a href="https://discord.gg/xPEHhcRyjH"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<h1 align="center">Who Am I?</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Who%20Am%20I%3F&fontSize=40&height=60" alt="Who Am I?" />
+</p>
 <h2 align="center">I am a web developer from Morocco.</h2>
 <h3 align="center">
   My goal is to create websites that are incredibly easy for anyone to use.
   No confusing menus. No hard words. Just simple, fast, and working perfectly.
 </h3>
 
-<h1 align="center">What I Am Building</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=What%20I%20Am%20Building&fontSize=40&height=60" alt="What I Am Building" />
+</p>
 <h3 align="center">
   Right now, I am focused on building <b>PrivaFlow</b>, a privacy web app. 
   I love writing clean code and designing screens that just make sense.
 </h3>
 
-<h1 align="center">My Tech Arsenal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=My%20Tech%20Arsenal&fontSize=40&height=60" alt="My Tech Arsenal" />
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb,laravel,react,redux,vue,angular,tailwind,bootstrap,nodejs,express,nestjs,nextjs,nuxtjs,svelte,jquery,sass,materialui,styledcomponents,npm,yarn,pnpm,vite,webpack,babel,docker,nginx,vercel,netlify,aws,redis,postgres,sqlite,supabase,firebase,prisma,graphql,bash,markdown,jest,cypress,git,github,vscode,figma,linux,ubuntu,debian,windows,discord,postman,insomnia,stackoverflow&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb,laravel,react,redux,vue,angular,tailwind,bootstrap,nodejs,express,nestjs,nextjs,nuxtjs,svelte,jquery,sass,materialui,styledcomponents,npm,yarn,pnpm,vite,webpack,babel,docker,nginx,vercel,netlify,aws,redis,postgres,sqlite,supabase,firebase,prisma,graphql,bash,markdown,jest,cypress,git,github,vscode,figma,linux,ubuntu,debian,windows,apple,android,discord,postman&perline=12&theme=dark" />
   </a>
 </p>
 
-<h1 align="center">My GitHub Activity</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilyas-Nour&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=My%20GitHub%20Activity&fontSize=40&height=60" alt="My GitHub Activity" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyas-Nour&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-Nour&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF" alt="GitHub Streak" />
