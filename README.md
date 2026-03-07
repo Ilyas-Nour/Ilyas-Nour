@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ilyas-Nour">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Ilyas+Nour;Full-Stack+Web+Developer;I+Build+Fast,+Simple+Websites" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Ilyas+NOUR;Full-Stack+Web+Developer;I+Build+Fast,+Simple+Websites" alt="Typing SVG" />
   </a>
 </p>
 
