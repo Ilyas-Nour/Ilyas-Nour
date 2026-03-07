@@ -45,3 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-Nour&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ilyas-Nour/Ilyas-Nour/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
