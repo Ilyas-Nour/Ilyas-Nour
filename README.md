@@ -74,9 +74,3 @@
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-<div align="right">
-  <code>VER_2026.04 // STABLE_BUILD</code>
-</div>
