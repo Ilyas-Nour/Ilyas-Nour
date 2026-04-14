@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ILYAS%20NOUR&fontSize=80&fontColor=58A6FF&desc=SYSTEM%20ARCHITECT%20//%20FULL-STACK%20ENGINEER&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ILYAS%20NOUR&fontSize=80&fontColor=58A6FF&animation=fadeIn" />
+  <p align="center">
+    <b>SYSTEM ARCHITECT &bull; FULL-STACK ENGINEER &bull; CASABLANCA, MOROCCO</b>
+  </p>
 </div>
 
 <br />
@@ -7,11 +10,11 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>IDENTITY_MANIFESTO</h3>
-      I engineer web systems where simplicity is the core feature. I focus on removing the friction between the user and the logic—creating tools that are fast, intuitive, and devoid of unnecessary bloat. No confusing menus. No hard words. Just software that works perfectly.
+      <h3>// IDENTITY_MANIFESTO</h3>
+      I engineer web systems where complexity is solved through design. My goal is to remove the friction between the user and the logic—creating tools that are fast, intuitive, and devoid of unnecessary bloat. No confusing menus. No hard words. Just software that works perfectly.
     </td>
     <td width="50%" valign="top">
-      <h3>CURRENT_DEPLOYMENT</h3>
+      <h3>// CURRENT_DEPLOYMENT</h3>
       <b>Project:</b> <i>PrivaFlow</i><br />
       <b>Role:</b> Lead Architect / Full-Stack<br />
       <b>Stack:</b> Laravel + React + Tailwind CSS<br />
@@ -23,7 +26,7 @@
 <br />
 
 <div align="center">
-  <h3>TECHNICAL_ARSENAL</h3>
+  <h3>// TECHNICAL_ARSENAL</h3>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,py,nodejs,nestjs,postgres,mysql,supabase,mongodb,docker,ubuntu,vercel,git,tailwind,threejs,figma,vscode&perline=10" width="100%" />
 </div>
 
@@ -31,7 +34,7 @@
 
 ---
 
-<h3 align="center">SYSTEM_ANALYTICS</h3>
+<h3 align="center">// SYSTEM_ANALYTICS</h3>
 
 <div align="center">
   <table width="100%">
@@ -52,7 +55,7 @@
 
 ---
 
-<h3 align="center">CONTRIBUTION_STREAM</h3>
+<h3 align="center">// CONTRIBUTION_STREAM</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ilyas-Nour/Ilyas-Nour/output/github-snake-dark.svg" alt="Snake" width="100%" />
