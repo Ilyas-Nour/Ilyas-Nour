@@ -1,72 +1,63 @@
 <div align="center">
   <br />
   <h1>ILYAS NOUR</h1>
-  <code>FULL-STACK ENGINEER // MOROCCO BASED</code>
-  <br />
-  <br />
-  <a href="https://linkedin.com/in/ilyasnour"><b>CONNECT</b></a> &nbsp;&bull;&nbsp; 
-  <a href="mailto:ilyasnourelislam@gmail.com"><b>DIRECT_LINE</b></a> &nbsp;&bull;&nbsp; 
-  <a href="https://discord.gg/xPEHhcRyjH"><b>SIGNAL</b></a>
-  <br />
+  <p><b>WEB ARCHITECT &bull; CASABLANCA, MOROCCO</b></p>
   <br />
 </div>
 
----
-
-### [00] // THE_MANIFESTO
-> I build high-performance web systems with a focus on radical simplicity. My philosophy is rooted in removing friction—engineering interfaces that are fast, intuitive, and devoid of unnecessary complexity.
-
----
-
-### [01] // CURRENT_DEPLOYMENT
-**PRIVAFLOW**
-A privacy-centric web ecosystem engineered for data sovereignty and secure user interaction.
-- **Environment:** Laravel + React + Tailwind CSS
-- **Design:** System-level minimalism / High-speed UX
-- **Status:** Active / Scaling
-
----
-
-### [02] // CORE_SYSTEM_SPECS
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>LOGIC_LAYER</h4>
-      <code>PHP (Laravel)</code><br />
-      <code>JavaScript (React / Next.js)</code><br />
-      <code>Python</code><br />
-      <code>Node.js (NestJS)</code><br />
-      <code>Three.js</code>
+    <td width="65%" rowspan="2" valign="top">
+      <h3>The Philosophy</h3>
+      I engineer web systems where complexity is solved through design. My goal is to remove the friction between the user and the logic—creating tools that are fast, intuitive, and devoid of unnecessary bloat. No confusing menus. No hard words. Just software that works perfectly.
+      <br /><br />
+      <b>Status:</b> Developing <i>PrivaFlow</i> (Privacy-Centric Ecosystem)
     </td>
-    <td width="50%" valign="top">
-      <h4>DATA_INFRASTRUCTURE</h4>
-      <code>PostgreSQL / MySQL</code><br />
-      <code>Supabase / Prisma</code><br />
-      <code>MongoDB</code><br />
-      <code>Docker / Ubuntu</code><br />
-      <code>Vercel / Git</code>
+    <td width="35%" valign="top">
+      <h3>Logic & Frameworks</h3>
+      PHP / Laravel<br />
+      JavaScript / React / Next.js<br />
+      Python / Node.js / NestJS
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="top">
+      <h3>Data & Infra</h3>
+      PostgreSQL / Supabase / MySQL<br />
+      Docker / Ubuntu / Git<br />
+      Tailwind CSS / Three.js
     </td>
   </tr>
 </table>
 
+<br />
+
 ---
 
-### [03] // SYSTEM_ANALYTICS
+<h3 align="center">PERFORMANCE METRICS</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ilyas-Nour&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&hide_rank=true" width="48%" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-Nour&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff" width="48%" align="right" />
+  <br clear="both" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-Nour&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 </div>
-<br clear="both" />
+
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-Nour&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 
 ---
 
-### [04] // CONTRIBUTION_STREAM
+<h3 align="center">ACTIVITY STREAM</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ilyas-Nour/Ilyas-Nour/output/github-snake-dark.svg" alt="Snake" width="100%" />
 </p>
 
-<div align="right">
-  <code>BUILD_ID: 2026.04.14</code>
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/ilyasnour">LinkedIn</a> &nbsp;&bull;&nbsp; 
+  <a href="mailto:ilyasnourelislam@gmail.com">Email</a> &nbsp;&bull;&nbsp; 
+  <a href="https://discord.gg/xPEHhcRyjH">Discord</a>
 </div>
