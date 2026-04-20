@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ILYAS%20NOUR&fontSize=80&fontColor=58A6FF&animation=fadeIn" />
   <p align="center">
-    <b>SYSTEM ARCHITECT &bull; FULL-STACK ENGINEER &bull; CASABLANCA, MOROCCO</b>
+    <b>SYSTEM ARCHITECT &bull; FULL-STACK DEVELOPER &bull; CASABLANCA, MOROCCO</b>
   </p>
 </div>
 
@@ -15,10 +15,10 @@
     </td>
     <td width="50%" valign="top">
       <h3>// CURRENT_DEPLOYMENT</h3>
-      <b>Project:</b> <i>PrivaFlow</i><br />
+      <b>Project:</b> <i>HomeMed Manager</i><br />
       <b>Role:</b> Lead Architect / Full-Stack<br />
-      <b>Stack:</b> NextJs + Tailwind CSS<br />
-      <b>Status:</b> Active Development / Privacy-First
+      <b>Stack:</b> React + Laravel + Filament + Tailwind CSS<br />
+      <b>Status:</b> Active Development
     </td>
   </tr>
 </table>
