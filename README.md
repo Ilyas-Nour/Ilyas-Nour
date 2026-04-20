@@ -17,7 +17,7 @@
       <h3>// CURRENT_DEPLOYMENT</h3>
       <b>Project:</b> <i>PrivaFlow</i><br />
       <b>Role:</b> Lead Architect / Full-Stack<br />
-      <b>Stack:</b> Laravel + React + Tailwind CSS<br />
+      <b>Stack:</b> NextJs + Tailwind CSS<br />
       <b>Status:</b> Active Development / Privacy-First
     </td>
   </tr>
