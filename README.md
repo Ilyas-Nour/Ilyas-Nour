@@ -1,76 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ILYAS%20NOUR&fontSize=80&fontColor=58A6FF&animation=fadeIn" />
-  <p align="center">
-    <b>SYSTEM ARCHITECT &bull; FULL-STACK DEVELOPER &bull; CASABLANCA, MOROCCO</b>
-  </p>
-</div>
+# Ilyas Nour
 
-<br />
+System Architect & Full-Stack Developer — Casablanca, Morocco
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>// IDENTITY_MANIFESTO</h3>
-      I engineer web systems where complexity is solved through design. My goal is to remove the friction between the user and the logic—creating tools that are fast, intuitive, and devoid of unnecessary bloat. No confusing menus. No hard words. Just software that works perfectly.
-    </td>
-    <td width="50%" valign="top">
-      <h3>// CURRENT_DEPLOYMENT</h3>
-      <b>Project:</b> <i>HomeMed Manager</i><br />
-      <b>Role:</b> Lead Architect / Full-Stack<br />
-      <b>Stack:</b> React + Laravel + Filament + Tailwind CSS<br />
-      <b>Status:</b> Active Development
-    </td>
-  </tr>
-</table>
+I engineer web systems where complexity is solved through design. The goal is to remove the friction that sits between user intent and execution — no confusing menus, no unnecessary bloat, no half-finished corners. Software should just work.
 
-<br />
+Currently building **HavenMed**, a full-stack medical/clinic management system (Laravel, React, Tailwind), in active development.
 
-<div align="center">
-  <h3>// TECHNICAL_ARSENAL</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,py,nodejs,nestjs,postgres,mysql,supabase,mongodb,docker,ubuntu,vercel,git,tailwind,threejs,figma,vscode&perline=10" width="100%" />
-</div>
-
-<br />
+[Portfolio](https://www.ilyasnour.com/) · [LinkedIn](https://linkedin.com/in/ilyasnour) · [X](https://twitter.com/ilyas_nour)
 
 ---
 
-<h3 align="center">// SYSTEM_ANALYTICS</h3>
+### Stack
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ilyas-Nour&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-Nour&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=ffffff" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-Nour&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
-</div>
-
-<br />
+PHP · Laravel · JavaScript / TypeScript · React · Next.js · Python · Tailwind CSS · MySQL / PostgreSQL · Docker · Git
 
 ---
 
-<h3 align="center">// CONTRIBUTION_STREAM</h3>
+### GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ilyas-Nour/Ilyas-Nour/output/github-snake-dark.svg" alt="Snake" width="100%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ilyas-Nour&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-Nour&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
 
-<br />
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/ilyasnour">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ilyasnourelislam@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.gg/xPEHhcRyjH">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
+### Projects
+
+- **HavenMed** — Full-stack medical/clinic manager. Laravel + React + Tailwind.
+- **Illyas** — [brief description of what this repo actually does]
+
+---
+
+<img src="https://raw.githubusercontent.com/Ilyas-Nour/Ilyas-Nour/output/snake-dark.svg" />
